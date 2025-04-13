@@ -39,6 +39,6 @@
 
 ## 📩 Team  
 - **Team Name:** The Federators  
-- **Members:** Aadit, Zayaan, Baldeep, Ayaan  
+- **Members:** Baldeep, Zayaan, Aadit, Ayaan  
 
 💡 *Optimizing donations for impactful causes!*
